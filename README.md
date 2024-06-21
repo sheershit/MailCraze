@@ -1,2 +1,5 @@
 # email-validator-html-css-js
- This project can be used to validate emails using the emailvalidation api
+
+MailCraze is a Email Validator which can validate emails using the email validation api.I had created this project with the help of HTML,CSS and Javascript.
+
+
